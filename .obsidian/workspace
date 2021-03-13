@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "53173cc9e6785b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb53d915fb01fbd7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ubuntu Server/Configuration Changes/README.md.md",
+            "mode": "source"
+          }
+        },
+        "group": "512360610256b515"
+      },
+      {
+        "id": "2650f897f7c4413e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ubuntu Server/Configuration Changes/README.md.md",
+            "mode": "preview"
+          }
+        },
+        "group": "512360610256b515"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cbc079cbefc26ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6cf7322d80d5f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1418314c78aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e0d571ccb4500d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c7392428782abfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d41a61d870bea13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e88b2b01029544a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ubuntu Server/Configuration Changes/README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Ubuntu Server/Configuration Changes/README.md.md",
+    "Accomplishments & Challenges.md",
+    "CentOS/Configuration Changes/README.md.md",
+    "Untitled.md",
+    "Ubuntu Server/Configuration Changes/Untitled.md",
+    "Ubuntu Server/Initial Installation/README.md.md",
+    "Ubuntu Server/Installed Packages/README.md.md",
+    "CentOS/Initial Installation/README.md.md",
+    "CentOS/Installed Packages/README.md.md",
+    "Ubuntu Server/Installed Packages/Untitled.md"
+  ]
+}
